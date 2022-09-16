@@ -5,4 +5,5 @@
 // @include        *
 // ==/UserScript==
 
-window.open = location.replace = function() {}
+window.open = function() {}
+location.replace = function() {}
