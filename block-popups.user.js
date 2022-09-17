@@ -7,5 +7,4 @@
 // @runat          document-start
 // ==/UserScript==
 
-unsafeWindow.open = function() {}
-unsafeWindow.location.replace = function() {}
+unsafeWindow.open = unsafeWindow.location.replace = document.location.replace = function() {}
