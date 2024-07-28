@@ -57,7 +57,8 @@ Install it by clicking on the button below:
 
 > [!TIP]
 > An installation dialog should appear after clicking the button above.
-> Confirm to finish the installation.
+>
+> Click on the confirm button to finish the installation.
 >
 
 ---
