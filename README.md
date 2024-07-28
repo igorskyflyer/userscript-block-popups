@@ -48,8 +48,11 @@
 
 ## 🕵🏼 Usage
 
-Install it by clicking on the following button: <a href="https://github.com/igorskyflyer/userscript-block-popups/raw/main/block-popups.user.js"><img src="https://img.shields.io/badge/Install-8A2BE2" alt="Install UserScript"></a>
+Install it by clicking on the button below:  
 
+<a href="https://github.com/igorskyflyer/userscript-block-popups/raw/main/block-popups.user.js"><img src="https://img.shields.io/badge/Install-8A2BE2" alt="Install UserScript"></a>
+
+<br>
 <br>
 
 > [!TIP]
