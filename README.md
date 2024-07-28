@@ -77,25 +77,33 @@ Licensed under the MIT license which is available here, [MIT license](https://gi
 
 ## 🧬 Related
 
-[]()
+[@igor.dvlpr/astro-saferesource](https://www.npmjs.com/package/@igor.dvlpr/astro-saferesource)
 
-> __
+> _🎐 Adds CSP-compliant inline scripts and styles to Astro! 🎠_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/encode-entities](https://www.npmjs.com/package/@igor.dvlpr/encode-entities)
 
-[]()
+> _🏃‍♂️ Fast and simple Map and RegExp based HTML entities encoder. 🍁_
 
-> __
+<br>
 
-[]()
+[@igor.dvlpr/odin](https://www.npmjs.com/package/@igor.dvlpr/odin)
 
-> __
+> _🔱 Odin is an Object wrapper that allows you to create objects and set their attributes - all at once! 🔺_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/str-is-in](https://www.npmjs.com/package/@igor.dvlpr/str-is-in)
+
+> _🧵 Provides ways of checking whether a String is present in an Array of Strings using custom Comparators. 🔍_
+
+<br>
+
+[@igor.dvlpr/recursive-readdir](https://www.npmjs.com/package/@igor.dvlpr/recursive-readdir)
+
+> _📖 Provides recursive readdir() and readdirSync() functions. 📁_
 
 ---
 
